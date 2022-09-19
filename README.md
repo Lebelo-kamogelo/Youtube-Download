@@ -2,7 +2,7 @@
 Download Youtube videos using python
 
 <p align="center">
-<a href="#"><img src="wndow.png"></a>
+<a href="#"><img src="window.png"></a>
 </p>
 
 ## Installation :
