@@ -2,7 +2,6 @@ from pytube import YouTube
 from tkinter import *
 from PIL import Image, ImageTk
 from tkinter import filedialog
-from tkinter import messagebox
 
 def path():
     selected = filedialog.askdirectory()
@@ -11,6 +10,7 @@ def path():
 def Download():
     url = input.get()
     get_path = label_selected_path.cget('text')
+
     if url == "":
         url_error.config(text='Link is not defined', fg='red')
     elif get_path == "":
