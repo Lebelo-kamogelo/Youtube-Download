@@ -15,5 +15,3 @@ Download Youtube videos using python
 
 #### Run : `python main.py`
 
-## Find Me on :
-[![WhatsApp]](https://wa.me/+27721789611)
